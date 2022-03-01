@@ -11,7 +11,7 @@ spec:
 
   source:
     path: components/example-apps/java-maven-ci
-    repoURL: https://github.com/ploigos/ploigos-quickstart.git
+    repoURL: https://github.com/HunterGerlach/ploigos-quickstart.git
     targetRevision: main
 
   destination:

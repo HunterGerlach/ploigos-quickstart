@@ -11,7 +11,7 @@ spec:
 
   source:
     path: components/third-party-services/mailhog/
-    repoURL: https://github.com/ploigos/ploigos-quickstart.git
+    repoURL: https://github.com/HunterGerlach/ploigos-quickstart.git
 
   destination:
     namespace: quickstart-mailhog
